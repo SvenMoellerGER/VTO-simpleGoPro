@@ -1,6 +1,6 @@
 # VTO-simpleGoPro
 
-Mit dem Programm kann bei Leichtathletik-Wettkämpfen die Regel TR 30.1.1 (Übertreten bei Horizontalsprüngen) mit Hilfe einer GoPro-Actioncam überwacht werden.
+Mit dem Programm kann bei einer GoPro-Actioncam eine Aufnahme gestartet werden und das jeweils letzte Video heruntergeladen werden.  Ziel ist es bei Leichtathletik-Wettkämpfen die Regel TR 30.1.1 (Übertreten bei Horizontalsprüngen) einfach, effizient und mit Qualität überwachen zu können.
 
 ## TR 30.1.1
 
